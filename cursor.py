@@ -3,7 +3,7 @@ import subprocess
 import os
 
 ascii_output = ""
-pause = 0.1
+pause = 1
 
 def clear_screen():
     if os.name == 'posix':  # Unix-like OS
