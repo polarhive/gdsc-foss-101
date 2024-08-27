@@ -32,8 +32,5 @@ for i in range(0, len(binary_string), 8):
     time.sleep(pause)
     print(f"ASCII character: {ascii_char}")
     
-    ascii_output += ascii_char
-    print(f"Current ASCII Output: {ascii_output}\n")
-    
     time.sleep(pause)
 
