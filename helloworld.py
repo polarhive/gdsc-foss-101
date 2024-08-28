@@ -1,2 +1,2 @@
-# python -m compileall byte.py
+# python -m compileall helloworld.py
 print("Hello, World!")

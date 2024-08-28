@@ -1,5 +1,5 @@
 # where's the bytecode?
-pyc_file_path = "__pycache__/byte.cpython-312.pyc"
+pyc_file_path = "__pycache__/helloworld.cpython-312.pyc"
 with open(pyc_file_path, 'rb') as file:
     binary_data = file.read()
 
